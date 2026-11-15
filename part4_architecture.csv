@@ -1,0 +1,10 @@
+model,layer,output_shape,params
+A,conv1,28x28x6,156
+A,pool1,14x14x6,0
+A,conv2,14x14x16,2416
+A,pool2,7x7x16,0
+A,fc_1,32,25120
+A,output,10,330
+B,W_xh,128,8320
+B,W_hh,128,16512
+B,W_hy,16,2064
