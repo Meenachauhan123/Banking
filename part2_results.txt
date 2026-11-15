@@ -1,0 +1,71 @@
+=== Checkpoint 2.1 ===
+train_rows = 560, train_positives = 119, test_rows = 240, test_positives = 51
+
+=== Task 2.2 ===
+loss_epoch_0 = 0.6931
+loss_epoch_1 = 0.6751
+loss_epoch_10 = 0.5685
+loss_epoch_100 = 0.3952
+loss_epoch_1000 = 0.3703
+weight_X1 = -0.5543
+weight_X2 = 0.5443
+weight_X3 = 0.9013
+weight_X4 = -0.1677
+weight_X5 = -0.2183
+weight_X6 = 0.2308
+weight_X7 = -0.0128
+bias = 0.0329
+test_bce = 0.3824
+
+=== Task 2.3 ===
+loss_epoch_200_eta_0.01 = 0.5093
+loss_epoch_200_eta_0.1 = 0.3775
+loss_epoch_200_eta_1.0 = 0.3703
+
+=== Task 2.4 ===
+odds_ratio_X1 = 0.5745
+odds_ratio_X2 = 1.7233
+odds_ratio_X3 = 2.4629
+odds_ratio_X4 = 0.8456
+odds_ratio_X5 = 0.8039
+odds_ratio_X6 = 1.2597
+odds_ratio_X7 = 0.9873
+odds_ratio_X8 = 1.0334
+
+=== Task 2.5 ===
+tau_0.5_tp = 24
+tau_0.5_fp = 20
+tau_0.5_tn = 169
+tau_0.5_fn = 27
+tau_0.5_accuracy = 0.8042
+tau_0.5_precision = 0.5455
+tau_0.5_recall = 0.4706
+tau_0.5_f1 = 0.5053
+tau_0.5_specificity = 0.8942
+tau_0.3_tp = 38
+tau_0.3_fp = 44
+tau_0.3_tn = 145
+tau_0.3_fn = 13
+tau_0.3_accuracy = 0.7625
+tau_0.3_precision = 0.4634
+tau_0.3_recall = 0.7451
+tau_0.3_f1 = 0.5714
+tau_0.3_specificity = 0.7672
+blind_accuracy = 0.7875
+
+=== Task 2.7 ===
+knn_tp = 17
+knn_fp = 20
+knn_tn = 169
+knn_fn = 34
+knn_accuracy = 0.7750
+knn_precision = 0.4595
+knn_recall = 0.3333
+knn_f1 = 0.3864
+
+=== Task 2.8 ===
+cost_tau = 7350.0000
+cost_train_at_tau = 7350.0000
+cost_test_at_tau = 2550.0000
+cost_test_at_0.5 = 12000.0000
+cost_test_flag_nobody = 20400.0000

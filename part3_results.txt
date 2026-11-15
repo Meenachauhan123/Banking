@@ -1,0 +1,57 @@
+=== Task 3.1 ===
+wcss_k2 = 4432.1510
+wcss_k3 = 4146.8206
+wcss_k4 = 3308.3234
+wcss_k5 = 3040.4239
+wcss_k6 = 2887.1647
+
+=== Task 3.2 ===
+elbow_k = 5
+
+=== Task 3.3 ===
+See outputs/part3_segments.csv for segment profiles.
+size_segment_A = 104
+size_segment_B = 234
+size_segment_C = 462
+
+=== Task 3.4 ===
+single_clusters_at_cut = [['E2', 'E3', 'E6'], ['E1', 'E4', 'E5']]
+complete_clusters_at_cut = [['E2', 'E3', 'E6'], ['E1', 'E4', 'E5']]
+
+=== Task 3.5 ===
+eigenvalue_sum = 8.0100
+eigenvalue_1 = 2.9778
+eigenvalue_2 = 1.5997
+eigenvalue_3 = 1.0011
+eigenvalue_4 = 0.9228
+eigenvalue_5 = 0.5348
+explained_ratio_1 = 0.3718
+explained_ratio_2 = 0.1997
+explained_ratio_3 = 0.1250
+explained_ratio_4 = 0.1152
+explained_ratio_5 = 0.0668
+cumulative_ratio_1 = 0.3718
+cumulative_ratio_2 = 0.5715
+cumulative_ratio_3 = 0.6965
+cumulative_ratio_4 = 0.8117
+cumulative_ratio_5 = 0.8784
+components_for_80pct = 4
+pc1_loading_X1 = 0.4517
+pc1_loading_X2 = -0.4259
+pc1_loading_X3 = -0.4269
+pc1_loading_X4 = -0.3714
+pc1_loading_X5 = 0.3413
+pc2_loading_X1 = 0.3229
+pc2_loading_X2 = 0.2190
+pc2_loading_X3 = -0.3881
+pc2_loading_X4 = 0.4748
+pc2_loading_X5 = 0.4468
+row1_pc1 = 2.1876
+row1_pc2 = -0.6542
+row2_pc1 = -0.7421
+row2_pc2 = 1.3802
+row3_pc1 = -1.2375
+row3_pc2 = 0.6098
+mean_pc1_segment_A = 1.5654
+mean_pc1_segment_B = 1.9309
+mean_pc1_segment_C = -1.3304
